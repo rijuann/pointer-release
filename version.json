@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
+  "release_notes": "MouseShare v1.0.0: Windows-style multi-display arrangement, cross-resolution scaling, and auto-discovery.",
+  "mandatory": false
+}
