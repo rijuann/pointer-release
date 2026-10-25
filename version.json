@@ -5,27 +5,27 @@
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "d0a38b5669bdf944fae4ff42a7c167116243f1a350738c7ed551c65153d11817"
+      "sha256": "3d4a25a7ad0a4622ce51c0ef3a14e381db9bf652fae381e78a9a909c80da5dbb"
     },
     "linux_amd64_deb": {
       "format": "deb",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/mouseshare_2.1.2_amd64.deb",
-      "sha256": "41f02ab2aefe2cb059491ac8e2756d140161ee0b8caed52c64db40bdedbd3979"
+      "sha256": "e9608697d4f5c1ff253dc7c7bdb4c8270764c17403e444f3ad1ff2d58df739ca"
     },
     "linux_x86_64_tar": {
       "format": "tar.gz",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/mouseshare-linux-x86_64.tar.gz",
-      "sha256": "08697ea83cc4709afef62fda33cceddfc28ebeae6ccc1a33b3049b1584a1109d"
+      "sha256": "5e1840008c43fdd0d8dd69da788adbe5628b1f6207ec180e6b47d796ec1f6e05"
     },
     "macos_universal_dmg": {
       "format": "dmg",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-macOS-Universal.dmg",
-      "sha256": "97b35cc843c861c321237e4595432cb72dda98fdaf2c9d4bfb5812c55befdc99"
+      "sha256": "86ab451831a4ba591c8216b40a1bdbb6eb0c0533a20defa2c93a6bfc40c07476"
     },
     "macos_universal_tar": {
       "format": "tar.gz",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-macOS-Universal.app.tar.gz",
-      "sha256": "49aff21e84ea7b8c5a4643b4be49361ce96d5194ed604594306c8842950a6423"
+      "sha256": "69b891efa0c3380e619deb709c4a19158466b9243545a48574deb3c7ee121c4c"
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
