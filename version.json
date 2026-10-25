@@ -1,11 +1,11 @@
 {
-  "version": "2.1.4",
-  "release_date": "2026-10-25",
+  "version": "2.1.5",
+  "release_date": "2026-10-26",
   "platforms": {
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "38137dc43d13da8a6f3ba340c70d8b4995b30177388f4c1f3cfccd5b3ab424d0"
+      "sha256": "b5914833c638c3d61510c0a1a24685730e7c393fe51051f74745a6aee8506f3c"
     },
     "linux_amd64_deb": {
       "format": "deb",
@@ -29,7 +29,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.1.4: Dynamic Drag-to-Any-Side Display Topology Arranger, proportional monitor aspect ratio & original width scaling, custom resolution presets, display sharing modes guide (mirroring vs extend), plus comprehensive stability and input hardening.",
-  "sha256": "38137dc43d13da8a6f3ba340c70d8b4995b30177388f4c1f3cfccd5b3ab424d0",
+  "release_notes": "MouseShare v2.1.5: Renamed Windows Update to Update in sidebar, activated Screen Mirror & Extended Display streaming signaling, target monitor selector, and remote input injection.",
+  "sha256": "b5914833c638c3d61510c0a1a24685730e7c393fe51051f74745a6aee8506f3c",
   "mandatory": false
 }
