@@ -1,15 +1,34 @@
 {
   "version": "2.1.1",
   "release_date": "2026-10-25",
-  "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.1.1: 100% sidebar alignment fix, stacked settings cards for zero text-overlap on Keyboard/Display/ScreenShare pages, dynamic version strings, and polished pill buttons across all pages.",
-  "sha256": "ddf533d332be2767ac4c738326bf4e5053164f0a694f487318ea50c1cb38fee5",
   "platforms": {
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "ddf533d332be2767ac4c738326bf4e5053164f0a694f487318ea50c1cb38fee5"
+      "sha256": "84b4c8c9a118607584c9a031b8d9588f83eb8b1d34ac40c576e728b506bb5a2e"
+    },
+    "linux_amd64_deb": {
+      "format": "deb",
+      "download_url": "https://github.com/rijuann/pointer-release/raw/main/mouseshare_2.1.1_amd64.deb",
+      "sha256": "d072e6a117758c1115bff0db0ad7c5f28c31b4b3d04777dae179b7203bfcc21d"
+    },
+    "linux_x86_64_tar": {
+      "format": "tar.gz",
+      "download_url": "https://github.com/rijuann/pointer-release/raw/main/mouseshare-linux-x86_64.tar.gz",
+      "sha256": "61eaa9bbc7c62672b4ccf78bffd5fd3a6318f96a194a2c1777bea943b3426866"
+    },
+    "macos_universal_dmg": {
+      "format": "dmg",
+      "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-macOS-Universal.dmg",
+      "sha256": "923f0d3be77cd1dced49019ad9b1313495217f893d4d801098da3a8fd165abfe"
+    },
+    "macos_universal_tar": {
+      "format": "tar.gz",
+      "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-macOS-Universal.app.tar.gz",
+      "sha256": "c26277f707eb3f211832e86a60d67bea1446d8624586602e2ec0d6918387f3e0"
     }
   },
+  "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
+  "release_notes": "MouseShare v2.1.1: Modern Obsidian Dark UI, E2EE encryption, clipboard sync, auto-reconnect, and silent background operations.",
   "mandatory": false
 }
