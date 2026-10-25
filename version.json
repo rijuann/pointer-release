@@ -5,7 +5,7 @@
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "727a4ecd2cc4bf0d389138606ff4927b82d92b861aa5141f50a5424256082a83"
+      "sha256": "38137dc43d13da8a6f3ba340c70d8b4995b30177388f4c1f3cfccd5b3ab424d0"
     },
     "linux_amd64_deb": {
       "format": "deb",
@@ -29,7 +29,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.1.4: Comprehensive stability and resilience update. Fixes SpscQueue CAS race condition, adds release_all_keys() across all platforms to prevent stuck keys on disconnect/boundary switch, multi-stage IP routing detection, non-blocking client stop, beacon discovery rate-limiting, transactional clipboard hashing, session-bound thread lifecycle, UAC elevation in updater, and coordinate clamping for multi-monitor setups.",
-  "sha256": "727a4ecd2cc4bf0d389138606ff4927b82d92b861aa5141f50a5424256082a83",
+  "release_notes": "MouseShare v2.1.4: Dynamic Drag-to-Any-Side Display Topology Arranger, proportional monitor aspect ratio & original width scaling, custom resolution presets, display sharing modes guide (mirroring vs extend), plus comprehensive stability and input hardening.",
+  "sha256": "38137dc43d13da8a6f3ba340c70d8b4995b30177388f4c1f3cfccd5b3ab424d0",
   "mandatory": false
 }
