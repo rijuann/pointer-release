@@ -10,22 +10,22 @@ MouseShare enables seamless mouse and keyboard sharing across multiple computers
 
 ### 🪟 Windows (x64)
 - **[MouseShare-Setup.msi](https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi)** (Standard Windows Installer)
-  - **SHA-256:** `09b0d145e58bf25a34a578b593b6bb10f0a544e7afff9f1a8a751977f032712a`
+  - **SHA-256:** `ed634ec50b7b6294eb1053fae2269c4770e4ffa263dfe857161bc1d1379ff4f1`
 
 ### 🐧 Linux (x86_64 / amd64)
 - **[mouseshare_2.0.0_amd64.deb](https://github.com/rijuann/pointer-release/raw/main/mouseshare_2.0.0_amd64.deb)** (Debian / Ubuntu / Linux Mint)
   - **Install:** `sudo dpkg -i mouseshare_2.0.0_amd64.deb`
-  - **SHA-256:** `1534e18b6d6a183546257ba3f8d4d705d0e06a08f5c3a55ed81e58a6e250b4cf`
+  - **SHA-256:** `c42a8f2db5674e54468a6e2bae08d58386052948c57d6384ff114d8128bbbd74`
 - **[mouseshare-linux-x86_64.tar.gz](https://github.com/rijuann/pointer-release/raw/main/mouseshare-linux-x86_64.tar.gz)** (Standalone Tarball - Arch, Fedora, openSUSE)
   - **Install:** `tar -xzf mouseshare-linux-x86_64.tar.gz && cd mouseshare-linux-x86_64 && sudo ./install.sh`
-  - **SHA-256:** `22c3f06502175c242bc2e63e4bac27a982a10104094b679469101d32e1b38f38`
+  - **SHA-256:** `425442ba814d6103f6df5ab36718274f4c2c7bfcd68e175d1d6ca439e9cb7262`
 
 ### 🍏 macOS (Universal: Apple Silicon M1/M2/M3 + Intel)
 - **[MouseShare-macOS-Universal.dmg](https://github.com/rijuann/pointer-release/raw/main/MouseShare-macOS-Universal.dmg)** (Drag & Drop Disk Image)
   - **Install:** Open DMG and drag `MouseShare.app` to `/Applications`
-  - **SHA-256:** `9e0726bcd4b92e8b2efc95902d8674d06ec83c3e50840c1bad38c2f6d5139019`
+  - **SHA-256:** `bc9e0c77d552d6a749f5769dfdf69d491c800bd88218e5d0edcdb312840779ae`
 - **[MouseShare-macOS-Universal.app.tar.gz](https://github.com/rijuann/pointer-release/raw/main/MouseShare-macOS-Universal.app.tar.gz)** (Portable App Bundle)
-  - **SHA-256:** `25371419e9d2cf450697efe6922128a0c3ac2ad5a2a8106cb73984ce4dbf021d`
+  - **SHA-256:** `c70877b4bb5dc4460206f390a118d49bf024915e48ea2a45da1f6b640cef201a`
 
 ---
 
