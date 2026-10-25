@@ -1,34 +1,35 @@
 {
-  "version": "2.1.2",
+  "version": "2.1.3",
   "release_date": "2026-10-25",
   "platforms": {
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "3d4a25a7ad0a4622ce51c0ef3a14e381db9bf652fae381e78a9a909c80da5dbb"
+      "sha256": "3170c624716ffac14a3f43b1c61f50cdbb5f9e7bbd680d34a9b99c5f8b97858b"
     },
     "linux_amd64_deb": {
       "format": "deb",
-      "download_url": "https://github.com/rijuann/pointer-release/raw/main/mouseshare_2.1.2_amd64.deb",
-      "sha256": "e9608697d4f5c1ff253dc7c7bdb4c8270764c17403e444f3ad1ff2d58df739ca"
+      "download_url": "https://github.com/rijuann/pointer-release/raw/main/mouseshare_2.1.1_amd64.deb",
+      "sha256": "d072e6a117758c1115bff0db0ad7c5f28c31b4b3d04777dae179b7203bfcc21d"
     },
     "linux_x86_64_tar": {
       "format": "tar.gz",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/mouseshare-linux-x86_64.tar.gz",
-      "sha256": "5e1840008c43fdd0d8dd69da788adbe5628b1f6207ec180e6b47d796ec1f6e05"
+      "sha256": "61eaa9bbc7c62672b4ccf78bffd5fd3a6318f96a194a2c1777bea943b3426866"
     },
     "macos_universal_dmg": {
       "format": "dmg",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-macOS-Universal.dmg",
-      "sha256": "86ab451831a4ba591c8216b40a1bdbb6eb0c0533a20defa2c93a6bfc40c07476"
+      "sha256": "923f0d3be77cd1dced49019ad9b1313495217f893d4d801098da3a8fd165abfe"
     },
     "macos_universal_tar": {
       "format": "tar.gz",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-macOS-Universal.app.tar.gz",
-      "sha256": "69b891efa0c3380e619deb709c4a19158466b9243545a48574deb3c7ee121c4c"
+      "sha256": "c26277f707eb3f211832e86a60d67bea1446d8624586602e2ec0d6918387f3e0"
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.1.2: Modern Obsidian Dark UI, E2EE encryption, clipboard sync, auto-reconnect, and silent background operations.",
+  "release_notes": "MouseShare v2.1.3: Device discovery self-filtering (excludes local PC), interactive PIN connection prompt, and receiver Accept/Decline authorization modal with 30s auto-decline timeout.",
+  "sha256": "3170c624716ffac14a3f43b1c61f50cdbb5f9e7bbd680d34a9b99c5f8b97858b",
   "mandatory": false
 }
