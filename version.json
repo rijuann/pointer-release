@@ -1,6 +1,34 @@
 {
   "version": "1.0.0",
+  "release_date": "2026-10-24",
+  "platforms": {
+    "windows_x64": {
+      "format": "msi",
+      "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
+      "sha256": "f42d2a9f0540252f401ea07ff7ed32b6c6e582868abc60f6fe78039bce42e9f8"
+    },
+    "linux_amd64_deb": {
+      "format": "deb",
+      "download_url": "https://github.com/rijuann/pointer-release/raw/main/mouseshare_1.0.0_amd64.deb",
+      "sha256": "5ce0874d231f8cfc9d70d6286b8713908f425db8a1557da86e7d6fb7bc3a0469"
+    },
+    "linux_x86_64_tar": {
+      "format": "tar.gz",
+      "download_url": "https://github.com/rijuann/pointer-release/raw/main/mouseshare-linux-x86_64.tar.gz",
+      "sha256": "bf39c76db574cc8c3dd6f233bdecf136d7d99b07adc3b2341ecf1014fc5c8c77"
+    },
+    "macos_universal_dmg": {
+      "format": "dmg",
+      "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-macOS-Universal.dmg",
+      "sha256": "24e7add8ce5b1d4c1ef9a4b54267ee55765064b797ab24773e87f3869491dc4c"
+    },
+    "macos_universal_tar": {
+      "format": "tar.gz",
+      "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-macOS-Universal.app.tar.gz",
+      "sha256": "fa2eed726129f82a33a9ebaf6dccbfaa06661b2b209dcc011c1e54661e1ee48d"
+    }
+  },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v1.0.0: Windows-style multi-display arrangement, cross-resolution scaling, and auto-discovery.",
+  "release_notes": "MouseShare v1.0.0: Cross-platform release for Windows, Linux, and macOS.",
   "mandatory": false
 }
