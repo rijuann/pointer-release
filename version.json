@@ -1,11 +1,11 @@
 {
-  "version": "2.1.1",
+  "version": "2.1.2",
   "release_date": "2026-10-25",
   "platforms": {
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "84b4c8c9a118607584c9a031b8d9588f83eb8b1d34ac40c576e728b506bb5a2e"
+      "sha256": "c8793649a77c1825b5eed07aa8cbae5b718822e773d43c7e15a1b3ba864e2cfe"
     },
     "linux_amd64_deb": {
       "format": "deb",
@@ -29,6 +29,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.1.1: Modern Obsidian Dark UI, E2EE encryption, clipboard sync, auto-reconnect, and silent background operations.",
+  "release_notes": "MouseShare v2.1.2: Screen Share fluid UI overhaul with responsive 16:9 canvas, animated pulsing radar glow, neon edge illumination, floating standby monitor icon, and zero-clipping wrapped InfoBars and spec cards.",
+  "sha256": "c8793649a77c1825b5eed07aa8cbae5b718822e773d43c7e15a1b3ba864e2cfe",
   "mandatory": false
 }
