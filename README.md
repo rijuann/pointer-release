@@ -15,17 +15,17 @@ MouseShare enables seamless mouse and keyboard sharing across multiple computers
 ### 🐧 Linux (x86_64 / amd64)
 - **[mouseshare_1.0.0_amd64.deb](https://github.com/rijuann/pointer-release/raw/main/mouseshare_1.0.0_amd64.deb)** (Debian / Ubuntu / Linux Mint)
   - **Install:** `sudo dpkg -i mouseshare_1.0.0_amd64.deb`
-  - **SHA-256:** `d0c2f6e10fbbadf99cf4527e05ad3b420596718bf770a823f8bb00be3548dc83`
+  - **SHA-256:** `ca447fc3c826c02189f89898231cbc5ef41c2723891088b356aa9e97d5e477ed`
 - **[mouseshare-linux-x86_64.tar.gz](https://github.com/rijuann/pointer-release/raw/main/mouseshare-linux-x86_64.tar.gz)** (Standalone Tarball - Arch, Fedora, openSUSE)
   - **Install:** `tar -xzf mouseshare-linux-x86_64.tar.gz && cd mouseshare-linux-x86_64 && sudo ./install.sh`
-  - **SHA-256:** `fcf9f13e6393796a2d3d0446758979d0e8fbd72bf828f5ccf7be5b0728504df6`
+  - **SHA-256:** `236cb62d35b6e0adc210f6ae96028ee6235728ab705e421aa044e6b927fea113`
 
 ### 🍏 macOS (Universal: Apple Silicon M1/M2/M3 + Intel)
 - **[MouseShare-macOS-Universal.dmg](https://github.com/rijuann/pointer-release/raw/main/MouseShare-macOS-Universal.dmg)** (Drag & Drop Disk Image)
   - **Install:** Open DMG and drag `MouseShare.app` to `/Applications`
-  - **SHA-256:** `c9006c8d79c4777c1f97f153e3e5dced282c0d1b85fde676600802395a8a2909`
+  - **SHA-256:** `4c56024edeb5a0f2c9eead8c9c10aefeaeda8e969fd192c3c72b6a51b7a97c60`
 - **[MouseShare-macOS-Universal.app.tar.gz](https://github.com/rijuann/pointer-release/raw/main/MouseShare-macOS-Universal.app.tar.gz)** (Portable App Bundle)
-  - **SHA-256:** `829f9c2c3e2cddbab2541b350c28ebfb4215f37c860a60381ce5f50398a1c5fe`
+  - **SHA-256:** `edf1a2220d1285ca0a5ed32f54b3d653f836d508b7dd1fdffa48650a31c29fed`
 
 ---
 
