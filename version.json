@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "release_date": "2026-10-24",
+  "version": "2.0.0",
+  "release_date": "2026-10-25",
   "platforms": {
     "windows_x64": {
       "format": "msi",
@@ -9,26 +9,26 @@
     },
     "linux_amd64_deb": {
       "format": "deb",
-      "download_url": "https://github.com/rijuann/pointer-release/raw/main/mouseshare_1.0.0_amd64.deb",
-      "sha256": "f3537fc1c92c09b9065c305d5f1ca4d40d838e779f0b2f5132a709e29bfdcc88"
+      "download_url": "https://github.com/rijuann/pointer-release/raw/main/mouseshare_2.0.0_amd64.deb",
+      "sha256": "57d7b996f819a3e1f1f0eb9c5a798f13acc4c1fd5a548307b2f02ac839abae11"
     },
     "linux_x86_64_tar": {
       "format": "tar.gz",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/mouseshare-linux-x86_64.tar.gz",
-      "sha256": "bf6a5f540f6b5dddcf3cd54c0afe66b5e3336957ee2698e5fb70bed053231525"
+      "sha256": "603c9fd63bd0d6fec15827596ca40e5a9c4022b46449d8655f54283001a506d9"
     },
     "macos_universal_dmg": {
       "format": "dmg",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-macOS-Universal.dmg",
-      "sha256": "24720d949152e42ceed76be3fef15f7a1014ac1c37a7b81ac0b30afa451093b1"
+      "sha256": "3db39a2e19919d26b1b51314d03f9671f2018fb5b28faf1f32022ecc6134b158"
     },
     "macos_universal_tar": {
       "format": "tar.gz",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-macOS-Universal.app.tar.gz",
-      "sha256": "e38ed5382dcfd63f67e5cf268010e31f708a73e72e35f9efad39fecb8dbaa1a6"
+      "sha256": "d3f3622385105c41b95bb374ea912f934a60fb9a471bb3aad357dfb7add89c12"
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v1.0.0: Cross-platform release for Windows, Linux, and macOS.",
+  "release_notes": "MouseShare v2.0.0: Modern Obsidian Dark UI, E2EE encryption, clipboard sync, auto-reconnect, and silent background operations.",
   "mandatory": false
 }
