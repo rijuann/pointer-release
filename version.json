@@ -5,31 +5,30 @@
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "c8793649a77c1825b5eed07aa8cbae5b718822e773d43c7e15a1b3ba864e2cfe"
+      "sha256": "d0a38b5669bdf944fae4ff42a7c167116243f1a350738c7ed551c65153d11817"
     },
     "linux_amd64_deb": {
       "format": "deb",
-      "download_url": "https://github.com/rijuann/pointer-release/raw/main/mouseshare_2.1.1_amd64.deb",
-      "sha256": "d072e6a117758c1115bff0db0ad7c5f28c31b4b3d04777dae179b7203bfcc21d"
+      "download_url": "https://github.com/rijuann/pointer-release/raw/main/mouseshare_2.1.2_amd64.deb",
+      "sha256": "41f02ab2aefe2cb059491ac8e2756d140161ee0b8caed52c64db40bdedbd3979"
     },
     "linux_x86_64_tar": {
       "format": "tar.gz",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/mouseshare-linux-x86_64.tar.gz",
-      "sha256": "61eaa9bbc7c62672b4ccf78bffd5fd3a6318f96a194a2c1777bea943b3426866"
+      "sha256": "08697ea83cc4709afef62fda33cceddfc28ebeae6ccc1a33b3049b1584a1109d"
     },
     "macos_universal_dmg": {
       "format": "dmg",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-macOS-Universal.dmg",
-      "sha256": "923f0d3be77cd1dced49019ad9b1313495217f893d4d801098da3a8fd165abfe"
+      "sha256": "97b35cc843c861c321237e4595432cb72dda98fdaf2c9d4bfb5812c55befdc99"
     },
     "macos_universal_tar": {
       "format": "tar.gz",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-macOS-Universal.app.tar.gz",
-      "sha256": "c26277f707eb3f211832e86a60d67bea1446d8624586602e2ec0d6918387f3e0"
+      "sha256": "49aff21e84ea7b8c5a4643b4be49361ce96d5194ed604594306c8842950a6423"
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.1.2: Screen Share fluid UI overhaul with responsive 16:9 canvas, animated pulsing radar glow, neon edge illumination, floating standby monitor icon, and zero-clipping wrapped InfoBars and spec cards.",
-  "sha256": "c8793649a77c1825b5eed07aa8cbae5b718822e773d43c7e15a1b3ba864e2cfe",
+  "release_notes": "MouseShare v2.1.2: Modern Obsidian Dark UI, E2EE encryption, clipboard sync, auto-reconnect, and silent background operations.",
   "mandatory": false
 }
