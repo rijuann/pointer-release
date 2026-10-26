@@ -3,8 +3,8 @@
 Official release distribution for [MouseShare](https://github.com/rijuann/pointer).
 
 ### Latest Download
-- **[Download MouseShare-Setup.msi](https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi)** (Windows x64 Installer v2.1.5 - 2.33 MB)
+- **[Download MouseShare-Setup.msi](https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi)** (Windows x64 Installer v2.2.0 - 2.35 MB)
 
 ### Verification
-- **Version:** `2.1.5`
-- **SHA-256 Checksum:** `b5914833c638c3d61510c0a1a24685730e7c393fe51051f74745a6aee8506f3c`
+- **Version:** `2.2.0`
+- **SHA-256 Checksum:** `393839bcbb8a7ae27c6d9992ebd4a46a7fd681fc6e87bbe6ff943db9a214b3f`

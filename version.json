@@ -1,11 +1,11 @@
 {
-  "version": "2.1.5",
+  "version": "2.2.0",
   "release_date": "2026-10-26",
   "platforms": {
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "b5914833c638c3d61510c0a1a24685730e7c393fe51051f74745a6aee8506f3c"
+      "sha256": "393839bcbb8a7ae27c6d9992ebd4a46a7fd681fc6e87bbe6ff943db9a214b3f"
     },
     "linux_amd64_deb": {
       "format": "deb",
@@ -29,7 +29,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.1.5: Renamed Windows Update to Update in sidebar, activated Screen Mirror & Extended Display streaming signaling, target monitor selector, and remote input injection.",
-  "sha256": "b5914833c638c3d61510c0a1a24685730e7c393fe51051f74745a6aee8506f3c",
+  "release_notes": "MouseShare v2.2.0: Instant vector QR code pairing, magnetic corner snapping for multi-monitors, sleep/wake & UAC cursor drift watchdogs, 1-click system diagnostic audit, live RTT ping & throughput telemetry, screen transition floating indicator chip, and audio chime feedback.",
+  "sha256": "393839bcbb8a7ae27c6d9992ebd4a46a7fd681fc6e87bbe6ff943db9a214b3f",
   "mandatory": false
 }
