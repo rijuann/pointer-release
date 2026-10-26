@@ -5,7 +5,7 @@
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "F47107903EEE2D6220B2A4FE91BC5E718146510EB1E78EFE8E02747B1E0E0167"
+      "sha256": "24CD21128497A497FE284EFEB177650847A417A943AC66389B40916BD0B6C23E"
     },
     "android_arm64_apk": {
       "format": "apk",
@@ -35,6 +35,6 @@
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
   "release_notes": "MouseShare v2.2.0: Instant vector QR code pairing, magnetic corner snapping for multi-monitors, sleep/wake & UAC cursor drift watchdogs, 1-click system diagnostic audit, live RTT ping & throughput telemetry, screen transition floating indicator chip, and audio chime feedback.",
-  "sha256": "F47107903EEE2D6220B2A4FE91BC5E718146510EB1E78EFE8E02747B1E0E0167",
+  "sha256": "24CD21128497A497FE284EFEB177650847A417A943AC66389B40916BD0B6C23E",
   "mandatory": false
 }
