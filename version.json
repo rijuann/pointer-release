@@ -1,11 +1,11 @@
 {
-  "version": "2.2.0",
+  "version": "2.2.1",
   "release_date": "2026-10-26",
   "platforms": {
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "24CD21128497A497FE284EFEB177650847A417A943AC66389B40916BD0B6C23E"
+      "sha256": "BD727D1D195BCE6CEBE716550EAAA7631BA66407A46FB85DA37E3629F00A4B40"
     },
     "android_arm64_apk": {
       "format": "apk",
@@ -34,7 +34,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.2.0: Instant vector QR code pairing, magnetic corner snapping for multi-monitors, sleep/wake & UAC cursor drift watchdogs, 1-click system diagnostic audit, live RTT ping & throughput telemetry, screen transition floating indicator chip, and audio chime feedback.",
-  "sha256": "24CD21128497A497FE284EFEB177650847A417A943AC66389B40916BD0B6C23E",
+  "release_notes": "MouseShare v2.2.1: Real-time high-speed JPEG screen streaming, full-screen mobile landscape rotation, dedicated Android release signing, and enhanced display edge routing.",
+  "sha256": "BD727D1D195BCE6CEBE716550EAAA7631BA66407A46FB85DA37E3629F00A4B40",
   "mandatory": false
 }
