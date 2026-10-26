@@ -7,6 +7,11 @@
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
       "sha256": "F47107903EEE2D6220B2A4FE91BC5E718146510EB1E78EFE8E02747B1E0E0167"
     },
+    "android_arm64_apk": {
+      "format": "apk",
+      "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Android.apk",
+      "sha256": "201680B3DA89B31D5B2CD6AD68575E2CF29906F903A31D96C222BB1F7069733A"
+    },
     "linux_amd64_deb": {
       "format": "deb",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/mouseshare_2.1.1_amd64.deb",
