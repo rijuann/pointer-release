@@ -10,7 +10,7 @@
     "android_arm64_apk": {
       "format": "apk",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Android.apk",
-      "sha256": "201680B3DA89B31D5B2CD6AD68575E2CF29906F903A31D96C222BB1F7069733A"
+      "sha256": "79C5849C8E9852057D8D895F041F90655D4D647AF1F0993A53EED7663DB9CE11"
     },
     "linux_amd64_deb": {
       "format": "deb",
