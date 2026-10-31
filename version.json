@@ -1,16 +1,16 @@
 {
-  "version": "2.2.2",
-  "release_date": "2026-10-26",
+  "version": "2.2.3",
+  "release_date": "2026-10-31",
   "platforms": {
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "C028CC2E1984E71119C990F4F799A280B5D79596FC6A0B73E135F59E7C2DF2A8"
+      "sha256": "F253F990D93096DC2D5173055CB1D925B7F659F899F5D28CB332AB27BA0A4F0A"
     },
     "android_arm64_apk": {
       "format": "apk",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Android.apk",
-      "sha256": "1C3E2245DE6E88E0A504495E211A4508E35180DE7A704D845A042299CD0743A7"
+      "sha256": "D01842A62ED0AB94FD5953EF0F4EBD837E82CBBB699494FA05684204654AF6CF"
     },
     "linux_amd64_deb": {
       "format": "deb",
@@ -34,7 +34,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.2.2: Cache-busting update checks, reliable 64-bit installer path detection, process-safe upgrade orchestration, and all v2.2.1 features.",
-  "sha256": "C028CC2E1984E71119C990F4F799A280B5D79596FC6A0B73E135F59E7C2DF2A8",
+  "release_notes": "MouseShare v2.2.3: Instant one-scan pairing for mouse & keyboard, Desktop Host Approval Gate for Screen Share requests, and streamlined mobile UI.",
+  "sha256": "F253F990D93096DC2D5173055CB1D925B7F659F899F5D28CB332AB27BA0A4F0A",
   "mandatory": false
 }
