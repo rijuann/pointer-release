@@ -6,6 +6,6 @@ Official release distribution for [MouseShare](https://github.com/rijuann/pointe
 - **[Download MouseShare-Setup.msi](https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi)** (Windows x64 Installer v2.2.3 - 2.48 MB)
 - **[Download MouseShare-Android.apk](https://github.com/rijuann/pointer-release/raw/main/MouseShare-Android.apk)** (Android Arm64 APK v2.2.3 - 68.5 MB)
 
-### Verification (v2.2.3)
-- **Windows MSI SHA-256:** `F253F990D93096DC2D5173055CB1D925B7F659F899F5D28CB332AB27BA0A4F0A`
-- **Android APK SHA-256:** `D01842A62ED0AB94FD5953EF0F4EBD837E82CBBB699494FA05684204654AF6CF`
+### Verification (v2.2.3 - Phase 1 Resilience & Concurrency)
+- **Windows MSI SHA-256:** `575026BB4458A47BAE3163760973CCDAF6681E201D6FFD8D0333B14F23B8EDD1`
+- **Android APK SHA-256:** `23042D19CE740922756ABCF4033FDE4633B441CF74C8C5B616D48E817FA80D0B`

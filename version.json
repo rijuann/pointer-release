@@ -5,12 +5,12 @@
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "F253F990D93096DC2D5173055CB1D925B7F659F899F5D28CB332AB27BA0A4F0A"
+      "sha256": "575026BB4458A47BAE3163760973CCDAF6681E201D6FFD8D0333B14F23B8EDD1"
     },
     "android_arm64_apk": {
       "format": "apk",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Android.apk",
-      "sha256": "D01842A62ED0AB94FD5953EF0F4EBD837E82CBBB699494FA05684204654AF6CF"
+      "sha256": "23042D19CE740922756ABCF4033FDE4633B441CF74C8C5B616D48E817FA80D0B"
     },
     "linux_amd64_deb": {
       "format": "deb",
@@ -34,7 +34,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.2.3: Instant one-scan pairing for mouse & keyboard, Desktop Host Approval Gate for Screen Share requests, and streamlined mobile UI.",
-  "sha256": "F253F990D93096DC2D5173055CB1D925B7F659F899F5D28CB332AB27BA0A4F0A",
+  "release_notes": "MouseShare v2.2.3: Phase 1 Concurrency & Resilience update. Fixes screen share double-request, unblocks receiver thread during host approval, terminates zombie capture workers, and prevents stuck drag-lock clicks.",
+  "sha256": "575026BB4458A47BAE3163760973CCDAF6681E201D6FFD8D0333B14F23B8EDD1",
   "mandatory": false
 }
