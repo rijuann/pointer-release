@@ -1,16 +1,16 @@
 {
-  "version": "2.2.5",
+  "version": "2.2.6",
   "release_date": "2026-11-01",
   "platforms": {
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "BCD90DE29F7E3784D0D2DF56D20ED7A8B32156C9B413C8C36EC8EBD29C7CE26C"
+      "sha256": "B9F1BE918226256838D52F199159529B53691F2E127C51B2FAF7624CB6A357E7"
     },
     "android_arm64_apk": {
       "format": "apk",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Android.apk",
-      "sha256": "7CB15D6EDC3146C0487B3B97322D3D9F2AD91402FECB61B5BE9F51887499C6A6"
+      "sha256": "0AD8FF16509090E75C9C22049B8467622D7048474BDCD8C6E97D6C94F6AE4BC9"
     },
     "linux_amd64_deb": {
       "format": "deb",
@@ -34,7 +34,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.2.5: Phase 3 Input Precision & Internationalization. Adds dynamic ballistic cursor acceleration (fine sub-pixel precision + high-velocity flicks for 4K / Ultrawide / multi-monitors) and native layout-independent Unicode UTF-16 keyboard character injection.",
-  "sha256": "BCD90DE29F7E3784D0D2DF56D20ED7A8B32156C9B413C8C36EC8EBD29C7CE26C",
+  "release_notes": "MouseShare v2.2.6: Phase 4 True Extended Display & Virtual Monitor Architecture. Adds Win32 virtual display engine with accurate multi-monitor geometry, hardware-accelerated DXGI Desktop Duplication GPU capture (<2ms latency, <3% CPU), dynamic portrait/landscape auto-rotation sync, and interactive mobile sidecar touch & gesture mapping.",
+  "sha256": "B9F1BE918226256838D52F199159529B53691F2E127C51B2FAF7624CB6A357E7",
   "mandatory": false
 }
