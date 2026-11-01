@@ -1,11 +1,11 @@
 {
-  "version": "2.3.0",
+  "version": "2.3.1",
   "release_date": "2026-11-01",
   "platforms": {
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "D06E80C4AA97AB2A1C2F918828F4540A3E1FFA436E5FE84926E288A70F9D15D8"
+      "sha256": "CD58183B3F9E3EE698F64303B46973E05C4ADE914C48F1E2C11F962957E95CC2"
     },
     "android_arm64_apk": {
       "format": "apk",
@@ -34,7 +34,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.3.0: Streamlined 3-Card Display & Screen Share studio architecture with interactive CAD topology arranger and inline placement/alignment toolbar, unified live screen broadcast controls with instant quality presets & preview drawer, seamless IddCx virtual extended display driver management, and clean collapsible diagnostics.",
-  "sha256": "D06E80C4AA97AB2A1C2F918828F4540A3E1FFA436E5FE84926E288A70F9D15D8",
+  "release_notes": "MouseShare v2.3.1: Complete UI responsive polish with tab-specific ScrollArea isolation, unconstrained Emergency Recovery layout, fixed Extended Display multi-monitor capture target synchronization, auto-enabling IddCx virtual driver lifecycle, and instant bidirectional ScreenShareApproved network protocol handshake.",
+  "sha256": "CD58183B3F9E3EE698F64303B46973E05C4ADE914C48F1E2C11F962957E95CC2",
   "mandatory": false
 }
