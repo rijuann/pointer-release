@@ -5,7 +5,7 @@
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "D37E68DA849AF30727AAF3D89B56D4861970C1740C5E4F491FCB0DC0F8024BCE"
+      "sha256": "6D12BCA2BDF549DC19CE0AD2B787D10A08DD07EDFDE77652773DA60B4141323A"
     },
     "android_arm64_apk": {
       "format": "apk",
@@ -35,6 +35,6 @@
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
   "release_notes": "MouseShare v2.2.8: Consolidated 5-category sidebar navigation (merged Display + Screen Share into 'Display & Screen'; merged System, Receiver, Keyboard into 'Connections'). Fixed Windows app freezes with non-blocking driver checks and background workers. Full virtual extended display driver integration and 60fps streaming.",
-  "sha256": "D37E68DA849AF30727AAF3D89B56D4861970C1740C5E4F491FCB0DC0F8024BCE",
+  "sha256": "6D12BCA2BDF549DC19CE0AD2B787D10A08DD07EDFDE77652773DA60B4141323A",
   "mandatory": false
 }
