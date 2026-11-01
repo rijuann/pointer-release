@@ -1,11 +1,11 @@
 {
-  "version": "2.2.7",
+  "version": "2.2.8",
   "release_date": "2026-11-01",
   "platforms": {
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "F74E59B84F078F5EB5B4460B480BA330B3350B9D5D67BD8175B14208493BB721"
+      "sha256": "D37E68DA849AF30727AAF3D89B56D4861970C1740C5E4F491FCB0DC0F8024BCE"
     },
     "android_arm64_apk": {
       "format": "apk",
@@ -34,7 +34,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.2.7: Consolidated sidebar navigation (merged Display + Screen Share into unified 'Display & Screen' page; merged System, Receiver, Keyboard into 'Connections' page). Fixed UI freezes with instant registry lookups. All screen sharing and virtual display fixes included.",
-  "sha256": "F74E59B84F078F5EB5B4460B480BA330B3350B9D5D67BD8175B14208493BB721",
+  "release_notes": "MouseShare v2.2.8: Consolidated 5-category sidebar navigation (merged Display + Screen Share into 'Display & Screen'; merged System, Receiver, Keyboard into 'Connections'). Fixed Windows app freezes with non-blocking driver checks and background workers. Full virtual extended display driver integration and 60fps streaming.",
+  "sha256": "D37E68DA849AF30727AAF3D89B56D4861970C1740C5E4F491FCB0DC0F8024BCE",
   "mandatory": false
 }
