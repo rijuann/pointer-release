@@ -1,16 +1,16 @@
 {
-  "version": "2.2.3",
-  "release_date": "2026-10-31",
+  "version": "2.2.4",
+  "release_date": "2026-11-01",
   "platforms": {
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "575026BB4458A47BAE3163760973CCDAF6681E201D6FFD8D0333B14F23B8EDD1"
+      "sha256": "0CF83EB5BB47D5F3616199A7B1731D095B4D05EAB0EEDBC9865D5FA75A4908A6"
     },
     "android_arm64_apk": {
       "format": "apk",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Android.apk",
-      "sha256": "23042D19CE740922756ABCF4033FDE4633B441CF74C8C5B616D48E817FA80D0B"
+      "sha256": "7673929DE4C76408E876DF7A2490B6CC6A6CE0023403EDC3378B8E7768CCA715"
     },
     "linux_amd64_deb": {
       "format": "deb",
@@ -34,7 +34,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.2.3: Phase 1 Concurrency & Resilience update. Fixes screen share double-request, unblocks receiver thread during host approval, terminates zombie capture workers, and prevents stuck drag-lock clicks.",
-  "sha256": "575026BB4458A47BAE3163760973CCDAF6681E201D6FFD8D0333B14F23B8EDD1",
+  "release_notes": "MouseShare v2.2.4: Phase 2 Fast Reconnect & Telemetry update. Adds persistent device memory with 1-tap reconnect card, automatic QR device name detection, and real round-trip latency (true RTT ping) measurement.",
+  "sha256": "0CF83EB5BB47D5F3616199A7B1731D095B4D05EAB0EEDBC9865D5FA75A4908A6",
   "mandatory": false
 }
