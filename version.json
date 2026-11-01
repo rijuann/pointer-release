@@ -5,7 +5,7 @@
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "CD4F8A5F0A7FA7F6B6FE5C9E80E8B9C7661F772C24A62A7D696A5E6248BB7606"
+      "sha256": "0A4C4826B0DA8D120BE2EDA3E176CC1BD9DF085F46132E3DEF4D2ABA4331B580"
     },
     "android_arm64_apk": {
       "format": "apk",
@@ -34,7 +34,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.2.7: Fixed Windows app freeze caused by blocking pnputil/GDI calls in UI render loop. Replaced with instant registry lookups, cached monitor enumeration, throttled preview uploads, and async driver management buttons. All 3 screen sharing bugs also resolved (orientation fix, 60fps downscaling, virtual display driver).",
-  "sha256": "CD4F8A5F0A7FA7F6B6FE5C9E80E8B9C7661F772C24A62A7D696A5E6248BB7606",
+  "release_notes": "MouseShare v2.2.7: Unified Connections sidebar navigation (merged System, Receiver, and Keyboard into one streamlined page). Fixed Windows app freeze caused by blocking driver checks in UI loop. Resolved screen sharing bugs (orientation fix, 60fps downscaling, virtual display driver integration).",
+  "sha256": "0A4C4826B0DA8D120BE2EDA3E176CC1BD9DF085F46132E3DEF4D2ABA4331B580",
   "mandatory": false
 }
