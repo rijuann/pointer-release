@@ -1,16 +1,16 @@
 {
-  "version": "2.2.6",
+  "version": "2.2.7",
   "release_date": "2026-11-01",
   "platforms": {
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "B9F1BE918226256838D52F199159529B53691F2E127C51B2FAF7624CB6A357E7"
+      "sha256": "88642A6E4CBD57916AFF6B5158A297191AE8BC283A9AFECC01DF9285F800B25D"
     },
     "android_arm64_apk": {
       "format": "apk",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Android.apk",
-      "sha256": "0AD8FF16509090E75C9C22049B8467622D7048474BDCD8C6E97D6C94F6AE4BC9"
+      "sha256": "BEFD9F48F00D712B8DB78EEA1317F86CAEA32D8D5246D676E6D0141B6ABA79D8"
     },
     "linux_amd64_deb": {
       "format": "deb",
@@ -34,7 +34,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.2.6: Phase 4 True Extended Display & Virtual Monitor Architecture. Adds Win32 virtual display engine with accurate multi-monitor geometry, hardware-accelerated DXGI Desktop Duplication GPU capture (<2ms latency, <3% CPU), dynamic portrait/landscape auto-rotation sync, and interactive mobile sidecar touch & gesture mapping.",
-  "sha256": "B9F1BE918226256838D52F199159529B53691F2E127C51B2FAF7624CB6A357E7",
+  "release_notes": "MouseShare v2.2.7: Comprehensive screen sharing bug fixes and improvements. 1. Decoupled mobile client rotation from PC display so host monitor orientation is never flipped. 2. Real-time GPU & GDI downscaling with 60 FPS quality presets (540p speed, 720p balanced, 1080p crisp) selectable on-the-fly from mobile HUD. 3. True Extended Display Driver (IddCx / UMDF) integration with 1-click silent driver installer and management in desktop GUI.",
+  "sha256": "88642A6E4CBD57916AFF6B5158A297191AE8BC283A9AFECC01DF9285F800B25D",
   "mandatory": false
 }
