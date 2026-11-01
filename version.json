@@ -5,7 +5,7 @@
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "88642A6E4CBD57916AFF6B5158A297191AE8BC283A9AFECC01DF9285F800B25D"
+      "sha256": "CD4F8A5F0A7FA7F6B6FE5C9E80E8B9C7661F772C24A62A7D696A5E6248BB7606"
     },
     "android_arm64_apk": {
       "format": "apk",
@@ -34,7 +34,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.2.7: Comprehensive screen sharing bug fixes and improvements. 1. Decoupled mobile client rotation from PC display so host monitor orientation is never flipped. 2. Real-time GPU & GDI downscaling with 60 FPS quality presets (540p speed, 720p balanced, 1080p crisp) selectable on-the-fly from mobile HUD. 3. True Extended Display Driver (IddCx / UMDF) integration with 1-click silent driver installer and management in desktop GUI.",
-  "sha256": "88642A6E4CBD57916AFF6B5158A297191AE8BC283A9AFECC01DF9285F800B25D",
+  "release_notes": "MouseShare v2.2.7: Fixed Windows app freeze caused by blocking pnputil/GDI calls in UI render loop. Replaced with instant registry lookups, cached monitor enumeration, throttled preview uploads, and async driver management buttons. All 3 screen sharing bugs also resolved (orientation fix, 60fps downscaling, virtual display driver).",
+  "sha256": "CD4F8A5F0A7FA7F6B6FE5C9E80E8B9C7661F772C24A62A7D696A5E6248BB7606",
   "mandatory": false
 }
