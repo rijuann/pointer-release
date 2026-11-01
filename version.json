@@ -1,16 +1,16 @@
 {
-  "version": "2.2.4",
+  "version": "2.2.5",
   "release_date": "2026-11-01",
   "platforms": {
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "0CF83EB5BB47D5F3616199A7B1731D095B4D05EAB0EEDBC9865D5FA75A4908A6"
+      "sha256": "BCD90DE29F7E3784D0D2DF56D20ED7A8B32156C9B413C8C36EC8EBD29C7CE26C"
     },
     "android_arm64_apk": {
       "format": "apk",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Android.apk",
-      "sha256": "7673929DE4C76408E876DF7A2490B6CC6A6CE0023403EDC3378B8E7768CCA715"
+      "sha256": "7CB15D6EDC3146C0487B3B97322D3D9F2AD91402FECB61B5BE9F51887499C6A6"
     },
     "linux_amd64_deb": {
       "format": "deb",
@@ -34,7 +34,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.2.4: Phase 2 Fast Reconnect & Telemetry update. Adds persistent device memory with 1-tap reconnect card, automatic QR device name detection, and real round-trip latency (true RTT ping) measurement.",
-  "sha256": "0CF83EB5BB47D5F3616199A7B1731D095B4D05EAB0EEDBC9865D5FA75A4908A6",
+  "release_notes": "MouseShare v2.2.5: Phase 3 Input Precision & Internationalization. Adds dynamic ballistic cursor acceleration (fine sub-pixel precision + high-velocity flicks for 4K / Ultrawide / multi-monitors) and native layout-independent Unicode UTF-16 keyboard character injection.",
+  "sha256": "BCD90DE29F7E3784D0D2DF56D20ED7A8B32156C9B413C8C36EC8EBD29C7CE26C",
   "mandatory": false
 }
