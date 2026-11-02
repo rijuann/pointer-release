@@ -5,7 +5,7 @@
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "4879FCF9CCED4787DF0FA33F3A66B5AE5518BC2B965D8F1FD03DBA3BAED5AFFC"
+      "sha256": "1F52D46B0F0C4C49907EFC1B77C00259F6FC967AED88DCA451F72997AF97BE0B"
     },
     "android_arm64_apk": {
       "format": "apk",
@@ -35,6 +35,6 @@
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
   "release_notes": "MouseShare v2.3.2: Resolved Extended Display black screen issue on mobile. Programmatically attaches virtual display to Windows desktop via ChangeDisplaySettingsExW, dynamically synchronizes mobile native resolution, and enables directional multi-monitor placement (Right, Left, Above, Below) with real-time repositioning.",
-  "sha256": "4879FCF9CCED4787DF0FA33F3A66B5AE5518BC2B965D8F1FD03DBA3BAED5AFFC",
+  "sha256": "1F52D46B0F0C4C49907EFC1B77C00259F6FC967AED88DCA451F72997AF97BE0B",
   "mandatory": false
 }
