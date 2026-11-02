@@ -1,11 +1,11 @@
 {
-  "version": "2.3.1",
-  "release_date": "2026-11-01",
+  "version": "2.3.2",
+  "release_date": "2026-11-02",
   "platforms": {
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "CD58183B3F9E3EE698F64303B46973E05C4ADE914C48F1E2C11F962957E95CC2"
+      "sha256": "4879FCF9CCED4787DF0FA33F3A66B5AE5518BC2B965D8F1FD03DBA3BAED5AFFC"
     },
     "android_arm64_apk": {
       "format": "apk",
@@ -34,7 +34,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.3.1: Complete UI responsive polish with tab-specific ScrollArea isolation, unconstrained Emergency Recovery layout, fixed Extended Display multi-monitor capture target synchronization, auto-enabling IddCx virtual driver lifecycle, and instant bidirectional ScreenShareApproved network protocol handshake.",
-  "sha256": "CD58183B3F9E3EE698F64303B46973E05C4ADE914C48F1E2C11F962957E95CC2",
+  "release_notes": "MouseShare v2.3.2: Resolved Extended Display black screen issue on mobile. Programmatically attaches virtual display to Windows desktop via ChangeDisplaySettingsExW, dynamically synchronizes mobile native resolution, and enables directional multi-monitor placement (Right, Left, Above, Below) with real-time repositioning.",
+  "sha256": "4879FCF9CCED4787DF0FA33F3A66B5AE5518BC2B965D8F1FD03DBA3BAED5AFFC",
   "mandatory": false
 }
