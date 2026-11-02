@@ -1,11 +1,11 @@
 {
-  "version": "2.3.3",
+  "version": "2.3.4",
   "release_date": "2026-11-02",
   "platforms": {
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "0C581430097C45E4C0318ADBAA2AB222C3F8BB17BAFF5F050DDE90F68ABE0087"
+      "sha256": "758F47A9DBC9B5E2B8CF2A49F15D53488F038BD029397636B1876A4E687A49E3"
     },
     "android_arm64_apk": {
       "format": "apk",
@@ -34,7 +34,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.3.3: Resolved mobile app crash during Extended Display. Added errorBuilder decoder crash defense and frame validation to Flutter Image.memory, guarded trackpad Navigator pop, prevented duplicate screen capture threads, corrected portrait downscaling ratio, and moved virtual display attachment to an async thread to prevent TCP socket stalls.",
-  "sha256": "0C581430097C45E4C0318ADBAA2AB222C3F8BB17BAFF5F050DDE90F68ABE0087",
+  "release_notes": "MouseShare v2.3.4: Complete Extended Display engine overhaul. Fixed black screen issue on Indirect Display Driver (IddCx) virtual displays by adding robust displayswitch.exe /extend fallback and automated topology switching. Bypassed DXGI Access Denied (0x80070005) on virtual monitors to force direct high-performance GDI capture. Added 1:1 phone native resolution matching and unlocked 60 FPS streaming parity for Extended Display mode.",
+  "sha256": "758F47A9DBC9B5E2B8CF2A49F15D53488F038BD029397636B1876A4E687A49E3",
   "mandatory": false
 }
