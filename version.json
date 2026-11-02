@@ -1,16 +1,16 @@
 {
-  "version": "2.3.2",
+  "version": "2.3.3",
   "release_date": "2026-11-02",
   "platforms": {
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "1F52D46B0F0C4C49907EFC1B77C00259F6FC967AED88DCA451F72997AF97BE0B"
+      "sha256": "0C581430097C45E4C0318ADBAA2AB222C3F8BB17BAFF5F050DDE90F68ABE0087"
     },
     "android_arm64_apk": {
       "format": "apk",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Android.apk",
-      "sha256": "BEFD9F48F00D712B8DB78EEA1317F86CAEA32D8D5246D676E6D0141B6ABA79D8"
+      "sha256": "0369F939DD868C9709806F5500EE142572BAB491515B0295E8F8309ADD3AC0A5"
     },
     "linux_amd64_deb": {
       "format": "deb",
@@ -34,7 +34,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.3.2: Resolved Extended Display black screen issue on mobile. Programmatically attaches virtual display to Windows desktop via ChangeDisplaySettingsExW, dynamically synchronizes mobile native resolution, and enables directional multi-monitor placement (Right, Left, Above, Below) with real-time repositioning.",
-  "sha256": "1F52D46B0F0C4C49907EFC1B77C00259F6FC967AED88DCA451F72997AF97BE0B",
+  "release_notes": "MouseShare v2.3.3: Resolved mobile app crash during Extended Display. Added errorBuilder decoder crash defense and frame validation to Flutter Image.memory, guarded trackpad Navigator pop, prevented duplicate screen capture threads, corrected portrait downscaling ratio, and moved virtual display attachment to an async thread to prevent TCP socket stalls.",
+  "sha256": "0C581430097C45E4C0318ADBAA2AB222C3F8BB17BAFF5F050DDE90F68ABE0087",
   "mandatory": false
 }
