@@ -5,7 +5,7 @@
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "61AAE9F37B30158EB07169F3F7D172B387EF4113E0C54ABD0F62035051F78D45"
+      "sha256": "ceecffd5ada7855dfbe067a67bd035920e23c24e5bca14d28abc51c08518c19e"
     },
     "android_arm64_apk": {
       "format": "apk",
@@ -34,7 +34,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.4.2: Multi-PC Screen Side Arrangement & Hardware Scan Code Keyboard Pipeline. Added persistent 4-way screen orientation selector (Left/Right/Above/Below) with mini dual-monitor topology diagram in Connections tab, lock-free low-level keyboard hook forwarding physical hardware scan codes and modifier keys, and instant target window focus activation on border crossing.",
-  "sha256": "61AAE9F37B30158EB07169F3F7D172B387EF4113E0C54ABD0F62035051F78D45",
-  "mandatory": false
+  "release_notes": "MouseShare v2.4.2: Security Phase 1 — HMAC-SHA256 auth token signing, CSPRNG pairing PIN, mandatory SHA-256 update verification, SSRF hardening, Supabase RLS lockdown with privilege escalation trigger.",
+  "sha256": "ceecffd5ada7855dfbe067a67bd035920e23c24e5bca14d28abc51c08518c19e",
+  "mandatory": true
 }
