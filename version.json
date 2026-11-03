@@ -1,16 +1,16 @@
 {
-  "version": "2.3.4",
-  "release_date": "2026-11-02",
+  "version": "2.3.5",
+  "release_date": "2026-11-03",
   "platforms": {
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "758F47A9DBC9B5E2B8CF2A49F15D53488F038BD029397636B1876A4E687A49E3"
+      "sha256": "899E95AE8699CFAD9F121E471BB8F72463683E2038469158A906DB1ABA382AF1"
     },
     "android_arm64_apk": {
       "format": "apk",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Android.apk",
-      "sha256": "0369F939DD868C9709806F5500EE142572BAB491515B0295E8F8309ADD3AC0A5"
+      "sha256": "F75D7E6D923D6F23331D5F227EB1B9F03CC9E125D89A6B5D28D720C01F6A02D2"
     },
     "linux_amd64_deb": {
       "format": "deb",
@@ -34,7 +34,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.3.4: Complete Extended Display engine overhaul. Fixed black screen issue on Indirect Display Driver (IddCx) virtual displays by adding robust displayswitch.exe /extend fallback and automated topology switching. Bypassed DXGI Access Denied (0x80070005) on virtual monitors to force direct high-performance GDI capture. Added 1:1 phone native resolution matching and unlocked 60 FPS streaming parity for Extended Display mode.",
-  "sha256": "758F47A9DBC9B5E2B8CF2A49F15D53488F038BD029397636B1876A4E687A49E3",
+  "release_notes": "MouseShare v2.3.5: Comprehensive MVP stability & performance update. Fixed Client Mode virtual display attachment parity, prevented ghost monitors with clean shutdown detachment, eliminated ~600 MB/s heap churn with reusable frame buffers, added zero-copy preview gating, decoupled mobile frame rendering using ValueNotifier to eliminate 60 FPS widget rebuilds, fixed cursor snap-to-center on touch release, added screen wakelock, and enabled direct 1-tap desktop clicking.",
+  "sha256": "899E95AE8699CFAD9F121E471BB8F72463683E2038469158A906DB1ABA382AF1",
   "mandatory": false
 }
