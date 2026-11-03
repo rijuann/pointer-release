@@ -1,11 +1,11 @@
 {
-  "version": "2.4.0",
+  "version": "2.4.1",
   "release_date": "2026-11-03",
   "platforms": {
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "63BBEB94D264652657B98CCBB9462D2CED489CE258336EBD9FFE581BA9A8CA49"
+      "sha256": "8A6FC33943AE3FD0D77A202F454EB9B6471E13B03649E1D0FC82EF82DE237E6F"
     },
     "android_arm64_apk": {
       "format": "apk",
@@ -34,7 +34,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.4.0: SaaS Cloud Licensing, Device Seat Management & In-App Auth. Added Supabase Auth integration, multi-device seat management (Free = 1 seat, Pro = 5 seats), custom mouseshare:// deep-link 1-click desktop authorization, in-app Account & Licensing dashboard, offline lease cache, and Pro feature gating for Extended Display.",
-  "sha256": "63BBEB94D264652657B98CCBB9462D2CED489CE258336EBD9FFE581BA9A8CA49",
+  "release_notes": "MouseShare v2.4.1: Hybrid Browser Authentication & Alphanumeric License Keys. Added primary 1-click 'Sign In with Browser' handshake with automatic cryptographic nonce verification, secondary offline license key support in X-XX-XXX-XX-X format (Base62 charset + MD5 checksum verification), single-instance Win32 named mutex & event IPC for seamless mouseshare:// deep-link relay, and updated web device registration endpoints.",
+  "sha256": "8A6FC33943AE3FD0D77A202F454EB9B6471E13B03649E1D0FC82EF82DE237E6F",
   "mandatory": false
 }
