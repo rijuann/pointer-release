@@ -1,11 +1,11 @@
 {
-  "version": "2.4.1",
+  "version": "2.4.2",
   "release_date": "2026-11-03",
   "platforms": {
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "8A6FC33943AE3FD0D77A202F454EB9B6471E13B03649E1D0FC82EF82DE237E6F"
+      "sha256": "61AAE9F37B30158EB07169F3F7D172B387EF4113E0C54ABD0F62035051F78D45"
     },
     "android_arm64_apk": {
       "format": "apk",
@@ -34,7 +34,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.4.1: Hybrid Browser Authentication & Alphanumeric License Keys. Added primary 1-click 'Sign In with Browser' handshake with automatic cryptographic nonce verification, secondary offline license key support in X-XX-XXX-XX-X format (Base62 charset + MD5 checksum verification), single-instance Win32 named mutex & event IPC for seamless mouseshare:// deep-link relay, and updated web device registration endpoints.",
-  "sha256": "8A6FC33943AE3FD0D77A202F454EB9B6471E13B03649E1D0FC82EF82DE237E6F",
+  "release_notes": "MouseShare v2.4.2: Multi-PC Screen Side Arrangement & Hardware Scan Code Keyboard Pipeline. Added persistent 4-way screen orientation selector (Left/Right/Above/Below) with mini dual-monitor topology diagram in Connections tab, lock-free low-level keyboard hook forwarding physical hardware scan codes and modifier keys, and instant target window focus activation on border crossing.",
+  "sha256": "61AAE9F37B30158EB07169F3F7D172B387EF4113E0C54ABD0F62035051F78D45",
   "mandatory": false
 }
