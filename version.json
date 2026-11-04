@@ -5,7 +5,7 @@
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "05504674ad5e3622cbfdea36edd17efd3f6a3fa05b4779975751e1efdb7611b3"
+      "sha256": "513ef6deaf06bb0638fc41596ffa1a3c080ffb211e12e91dadf140f4778a9cf5"
     },
     "android_arm64_apk": {
       "format": "apk",
@@ -34,7 +34,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.4.2: Security Phase 2 — Password-Authenticated Key Exchange (PAKE / Noise-PSK) binding PIN to session keys, CSPRNG key generator, HMAC-SHA256 offline license key check digits, checked nonce increment.",
-  "sha256": "05504674ad5e3622cbfdea36edd17efd3f6a3fa05b4779975751e1efdb7611b3",
+  "release_notes": "MouseShare v2.4.2: Security Phase 3 — Windows DPAPI encrypted credential persistence, native Win32 elevation (no PowerShell injection), Web API rate limiting, atomic PostgreSQL seat limit trigger (FOR UPDATE), open redirect hardening.",
+  "sha256": "513ef6deaf06bb0638fc41596ffa1a3c080ffb211e12e91dadf140f4778a9cf5",
   "mandatory": true
 }
