@@ -5,7 +5,7 @@
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "def3fb0aa33a6c700d7e482380b6d0dd5435d7e80e328607b388fb17e9100fbd"
+      "sha256": "5153e2aed71cb81384101425092a4a82a985d9e871e652929d775adb7d2b9b63"
     },
     "android_arm64_apk": {
       "format": "apk",
@@ -34,7 +34,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.5.0: P2P Direct Connection Engine live on Cloudflare Workers (https://pointer.rijuan-mehedi.workers.dev) — AnyDesk-style XXXX-XXXX-XXXX device IDs, STUN NAT traversal, UDP hole punching, and ChaCha20-Poly1305 E2EE tunnel.",
-  "sha256": "def3fb0aa33a6c700d7e482380b6d0dd5435d7e80e328607b388fb17e9100fbd",
+  "release_notes": "MouseShare v2.5.0: Deep Hardware Identity Engine (%APPDATA%\\MouseShare\\identity), Server-Authoritative Device Code Allocation with Supabase fleet tracking, and Offline LAN-Only router fallback.",
+  "sha256": "5153e2aed71cb81384101425092a4a82a985d9e871e652929d775adb7d2b9b63",
   "mandatory": true
 }
