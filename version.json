@@ -1,11 +1,11 @@
 {
-  "version": "2.4.2",
+  "version": "2.5.0",
   "release_date": "2026-11-05",
   "platforms": {
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "2474e3d026e7e99e0d4019cd19a45bb412489b42c77158f0ed270c793d8ee66c"
+      "sha256": "81d996099c3078f65b2872d44ff55921caebfbd66a308b8c0ae6c5fd0ac50b6f"
     },
     "android_arm64_apk": {
       "format": "apk",
@@ -34,7 +34,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.4.2: Security Phase 4 (Final) — Bounded UDP auto-discovery with LRU eviction and hostname sanitization, production HTTPS endpoint enforcement, and robust JSON parser hardening.",
-  "sha256": "2474e3d026e7e99e0d4019cd19a45bb412489b42c77158f0ed270c793d8ee66c",
+  "release_notes": "MouseShare v2.5.0: P2P Direct Connection Engine — AnyDesk-style XXXX-XXXX-XXXX device IDs with deep hardware fingerprinting, public STUN NAT traversal, UDP hole punching, and ChaCha20-Poly1305 end-to-end encrypted datagram tunnel.",
+  "sha256": "81d996099c3078f65b2872d44ff55921caebfbd66a308b8c0ae6c5fd0ac50b6f",
   "mandatory": true
 }
