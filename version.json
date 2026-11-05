@@ -1,11 +1,11 @@
 {
   "version": "2.4.2",
-  "release_date": "2026-11-03",
+  "release_date": "2026-11-05",
   "platforms": {
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "513ef6deaf06bb0638fc41596ffa1a3c080ffb211e12e91dadf140f4778a9cf5"
+      "sha256": "2474e3d026e7e99e0d4019cd19a45bb412489b42c77158f0ed270c793d8ee66c"
     },
     "android_arm64_apk": {
       "format": "apk",
@@ -34,7 +34,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.4.2: Security Phase 3 — Windows DPAPI encrypted credential persistence, native Win32 elevation (no PowerShell injection), Web API rate limiting, atomic PostgreSQL seat limit trigger (FOR UPDATE), open redirect hardening.",
-  "sha256": "513ef6deaf06bb0638fc41596ffa1a3c080ffb211e12e91dadf140f4778a9cf5",
+  "release_notes": "MouseShare v2.4.2: Security Phase 4 (Final) — Bounded UDP auto-discovery with LRU eviction and hostname sanitization, production HTTPS endpoint enforcement, and robust JSON parser hardening.",
+  "sha256": "2474e3d026e7e99e0d4019cd19a45bb412489b42c77158f0ed270c793d8ee66c",
   "mandatory": true
 }
