@@ -4,8 +4,9 @@
   "platforms": {
     "windows_x64": {
       "format": "msi",
-      "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "620252c2f00c731b2bfde544aba1c6b0d55300f1fbd7028b238f3600d63b21a1"
+      "download_url": "https://tnlexuaqliprzgsfeegv.supabase.co/storage/v1/object/public/releases/v2.6.1/MouseShare-Setup.msi",
+      "sha256": "1703c4aba1403f662a81273642b7208564fb95cf8bc367c9ce631201d76efaaf",
+      "size_bytes": 2965504
     },
     "android_arm64_apk": {
       "format": "apk",
@@ -33,8 +34,8 @@
       "sha256": "c26277f707eb3f211832e86a60d67bea1446d8624586602e2ec0d6918387f3e0"
     }
   },
-  "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.6.1: Bidirectional Presence Heartbeat with Remote Revocation & Code Rotation, Sleek Gatekeeper Squircle Badge, and Local LAN Bypass.",
-  "sha256": "620252c2f00c731b2bfde544aba1c6b0d55300f1fbd7028b238f3600d63b21a1",
+  "download_url": "https://tnlexuaqliprzgsfeegv.supabase.co/storage/v1/object/public/releases/v2.6.1/MouseShare-Setup.msi",
+  "release_notes": "MouseShare v2.6.1: Supabase Cloud CDN distribution, Dynamic Web API updates, Remote Revocation & Code Rotation, Sleek Gatekeeper Squircle Badge, and Local LAN Bypass.",
+  "sha256": "1703c4aba1403f662a81273642b7208564fb95cf8bc367c9ce631201d76efaaf",
   "mandatory": true
 }
