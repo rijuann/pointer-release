@@ -5,7 +5,7 @@
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "dab571c8a19fa7060647b6a193c555b6232440d52b83131c7a04d4c46179757e"
+      "sha256": "64db31ec4ea2f40c6564ccb7f495617ef5a84812dd9bba87b53544a2232ac18f"
     },
     "android_arm64_apk": {
       "format": "apk",
@@ -35,6 +35,6 @@
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
   "release_notes": "MouseShare v2.6.1: Sleek Gatekeeper UI with Centered Squircle Badge, One-Click Local LAN Bypass for Offline / Router-Only Operation, Expandable Manual License Entry, and Tri-Transport Web Handshake.",
-  "sha256": "dab571c8a19fa7060647b6a193c555b6232440d52b83131c7a04d4c46179757e",
+  "sha256": "64db31ec4ea2f40c6564ccb7f495617ef5a84812dd9bba87b53544a2232ac18f",
   "mandatory": true
 }
