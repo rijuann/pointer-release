@@ -1,11 +1,11 @@
 {
-  "version": "2.5.0",
+  "version": "2.6.0",
   "release_date": "2026-11-06",
   "platforms": {
     "windows_x64": {
       "format": "msi",
       "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-      "sha256": "bd3fd4da334bd28c37aa29d1a606980802e48f134b16f2fc6ecbc96aeca6eeed"
+      "sha256": "4d3caee696ddfb6b18765a6bd03dbc49beb650cc30e62312b9f2820bda7a66ed"
     },
     "android_arm64_apk": {
       "format": "apk",
@@ -34,7 +34,7 @@
     }
   },
   "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.5.0: Mandatory In-App Registration Gatekeeper with Tri-Transport Web Handshake (Loopback HTTP + mouseshare:// Protocol + Polling Fallback), Server-Authoritative Device Code Allocation, and Deep Hardware Anchoring.",
-  "sha256": "bd3fd4da334bd28c37aa29d1a606980802e48f134b16f2fc6ecbc96aeca6eeed",
+  "release_notes": "MouseShare v2.6.0: Mandatory In-App Registration Gatekeeper with Tri-Transport Web Handshake (Loopback HTTP + mouseshare:// Protocol + Polling Fallback), Server-Authoritative Device Code Allocation, and Deep Hardware Anchoring.",
+  "sha256": "4d3caee696ddfb6b18765a6bd03dbc49beb650cc30e62312b9f2820bda7a66ed",
   "mandatory": true
 }
