@@ -1,0 +1,17 @@
+{
+  "version": "2.29.0",
+  "release_date": "2026-11-14",
+  "platforms": {
+    "windows_x64": {
+      "format": "msi",
+      "download_url": "https://tnlexuaqliprzgsfeegv.supabase.co/storage/v1/object/public/releases/v2.29.0/MouseShare-Setup.msi"
+    },
+    "android_arm64_apk": {
+      "format": "apk",
+      "download_url": "https://tnlexuaqliprzgsfeegv.supabase.co/storage/v1/object/public/releases/v2.29.0/MouseShare-Android.apk"
+    }
+  },
+  "download_url": "https://tnlexuaqliprzgsfeegv.supabase.co/storage/v1/object/public/releases/v2.29.0/MouseShare-Setup.msi",
+  "release_notes": "MouseShare v2.29.0: Commercial-grade 60 FPS video streaming engine. Ultra-low-latency binary channel, self-healing H.264 GOP keyframes, eliminated keyframe flooding, robust Android MediaCodec CSD initialization, and active quality downscaling.",
+  "mandatory": true
+}
