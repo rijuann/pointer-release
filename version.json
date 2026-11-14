@@ -1,17 +1,18 @@
 {
-  "version": "2.6.1",
-  "release_date": "2026-11-06",
+  "version": "2.27.0",
+  "release_date": "2026-11-14",
   "platforms": {
     "windows_x64": {
       "format": "msi",
-      "download_url": "https://tnlexuaqliprzgsfeegv.supabase.co/storage/v1/object/public/releases/v2.6.1/MouseShare-Setup.msi",
-      "sha256": "1703c4aba1403f662a81273642b7208564fb95cf8bc367c9ce631201d76efaaf",
-      "size_bytes": 2965504
+      "download_url": "https://tnlexuaqliprzgsfeegv.supabase.co/storage/v1/object/public/releases/v2.27.0/MouseShare-Setup.msi",
+      "sha256": "CC1F68B7E1C686F3E0DB668843BFF8C7A2CD7573A1B9BE37E53800B321B8E34C",
+      "size_bytes": 3645440
     },
     "android_arm64_apk": {
       "format": "apk",
-      "download_url": "https://github.com/rijuann/pointer-release/raw/main/MouseShare-Android.apk",
-      "sha256": "F75D7E6D923D6F23331D5F227EB1B9F03CC9E125D89A6B5D28D720C01F6A02D2"
+      "download_url": "https://tnlexuaqliprzgsfeegv.supabase.co/storage/v1/object/public/releases/v2.27.0/MouseShare-Android.apk",
+      "sha256": "6CC6D026F2E94B7E87DA0F546A6C02E9BE60385632BC8AB66B4400E2FFA6470E",
+      "size_bytes": 19050617
     },
     "linux_amd64_deb": {
       "format": "deb",
@@ -34,8 +35,8 @@
       "sha256": "c26277f707eb3f211832e86a60d67bea1446d8624586602e2ec0d6918387f3e0"
     }
   },
-  "download_url": "https://tnlexuaqliprzgsfeegv.supabase.co/storage/v1/object/public/releases/v2.6.1/MouseShare-Setup.msi",
-  "release_notes": "MouseShare v2.6.1: Supabase Cloud CDN distribution, Dynamic Web API updates, Remote Revocation & Code Rotation, Sleek Gatekeeper Squircle Badge, and Local LAN Bypass.",
-  "sha256": "1703c4aba1403f662a81273642b7208564fb95cf8bc367c9ce631201d76efaaf",
+  "download_url": "https://tnlexuaqliprzgsfeegv.supabase.co/storage/v1/object/public/releases/v2.27.0/MouseShare-Setup.msi",
+  "release_notes": "MouseShare v2.27.0: Host mouse cursor burn-in, zero-freeze single-frame-in-flight backpressure, mobile tile batching with 97% reduced heap allocation, and stable 30 FPS desktop streaming.",
+  "sha256": "CC1F68B7E1C686F3E0DB668843BFF8C7A2CD7573A1B9BE37E53800B321B8E34C",
   "mandatory": true
 }
